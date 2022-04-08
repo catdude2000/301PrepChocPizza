@@ -1,5 +1,5 @@
 body{
-  /* margin: auto; */
+  margin: auto;
   width: 1200px;
   font-size: 12px;
   text-align: center;
@@ -10,7 +10,7 @@ header{
 aside{
   text-align: left;
 }
-section{
+#headSect {
   padding-right: 80px;
   font-size: 30px;
 }
@@ -19,9 +19,15 @@ section{
 }
 #firstImages{
   padding-top: 10px;
-  padding-left: 30px;
+  padding-left: 423px;
 }
 #secImages{
   padding-top: 10px;
   padding-left: 15px;
+}
+h1{
+  font-size: 40px;
+}
+#firstBodyText{
+  padding-right: 640px;
 }
