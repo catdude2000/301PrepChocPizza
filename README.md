@@ -4,7 +4,6 @@
 
 Chocolate Pizza assignment to prep for 301-2.0 (2022)
 
-
 ### Author: Mike Pace
 
 ### Links and Resources
@@ -16,4 +15,3 @@ Chocolate Pizza assignment to prep for 301-2.0 (2022)
 
 * Consider including the answers to your daily journal and submission questions here
 * This is also a good place to reflect on the tools and resources used and learned
-
