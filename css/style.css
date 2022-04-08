@@ -1,3 +1,27 @@
+body{
+  /* margin: auto; */
+  width: 1200px;
+  font-size: 12px;
+  text-align: center;
+}
 header{
-  display: flexbox;
+  display: inline-flex;
+}
+aside{
+  text-align: left;
+}
+section{
+  padding-right: 80px;
+  font-size: 30px;
+}
+#topSmall{
+  padding-left: 5px;
+}
+#firstImages{
+  padding-top: 10px;
+  padding-left: 30px;
+}
+#secImages{
+  padding-top: 10px;
+  padding-left: 15px;
 }
