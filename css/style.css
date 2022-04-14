@@ -3,8 +3,14 @@ body{
   width: 1200px;
   font-size: 12px;
   text-align: center;
+  background-image: url("/images/hr-img.png"),
+  url("/images/hr-img.png"),
+  url("/images/hr-img.png");
+  background-repeat: repeat-x;
+  background-position: 0px 90px, 0px 86px, 0px 82px;
 }
 header{
+
   display: inline-flex;
 }
 aside{
@@ -26,8 +32,17 @@ aside{
   padding-left: 15px;
 }
 h1{
-  font-size: 40px;
+  font-size: 42px;
 }
 #firstBodyText{
   padding-right: 640px;
+}
+#postedOn{
+  font-size: 20px;
+}
+#horiz{
+  
+  /* background-repeat: repeat-x; */
+  width: 10px;
+  /* height: auto; */
 }
