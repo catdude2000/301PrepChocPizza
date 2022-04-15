@@ -9,6 +9,7 @@ body{
   url("/images/hr-img.png");
   background-repeat: repeat-x;
   background-position: 0px 115px, 0px 111px, 0px 107px;
+  /* background-size: ; */
 }
 header{
   display: inline-flex;
@@ -32,19 +33,19 @@ header{
 h1{
   font-size: 44px;
   margin-bottom: -0px;
-}
-#firstBodyText{
-  margin-bottom: -10px;
   padding-right: 610px;
 }
+#firstBodyText{
+  display: inline;
+  margin-bottom: -10px;
+}
 #postedOn{
-  padding-left: 147px;
-  padding-right: 200px;
+  padding-left: 150px;
   float: left;
   font-size: 18px;
 }
 #print{
-  padding-left: 950px;
+  padding-left: 820px;
   font-size: 18px;
   padding-bottom: 25px;
 }
