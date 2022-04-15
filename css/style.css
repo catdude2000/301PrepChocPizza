@@ -8,14 +8,11 @@ body{
   url("/images/hr-img.png"),
   url("/images/hr-img.png");
   background-repeat: repeat-x;
-  background-position: 0px 116px, 0px 112px, 0px 108px;
+  background-position: 0px 115px, 0px 111px, 0px 107px;
 }
 header{
-
   display: inline-flex;
-}
-aside{
-  text-align: left;
+  padding-bottom: 60px;
 }
 #headSect {
   padding-right: 80px;
@@ -33,17 +30,21 @@ aside{
   padding-left: 15px;
 }
 h1{
-  font-size: 42px;
+  font-size: 44px;
+  margin-bottom: -0px;
 }
 #firstBodyText{
-  padding-right: 640px;
+  margin-bottom: -10px;
+  padding-right: 610px;
 }
 #postedOn{
-  font-size: 20px;
+  padding-left: 147px;
+  padding-right: 200px;
+  float: left;
+  font-size: 18px;
 }
-#horiz{
-  
-  /* background-repeat: repeat-x; */
-  width: 10px;
-  /* height: auto; */
+#print{
+  padding-left: 950px;
+  font-size: 18px;
+  padding-bottom: 25px;
 }
