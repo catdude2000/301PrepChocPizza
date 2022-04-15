@@ -6,9 +6,12 @@ body{
   text-align: center;
   background-image: url("/images/hr-img.png"),
   url("/images/hr-img.png"),
+  url("/images/hr-img.png"),
+  url("/images/hr-img.png"),
+  url("/images/hr-img.png"),
   url("/images/hr-img.png");
   background-repeat: repeat-x;
-  background-position: 0px 115px, 0px 111px, 0px 107px;
+  background-position: 0px 115px, 0px 111px, 0px 107px, 0px 1480px, 0px 1484px, 0px 1488px;
 }
 header{
   display: inline-flex;
@@ -60,7 +63,32 @@ p{
   padding-top: 20px;
 }
 #reciTwo{
-  position: absolute;
-  top: 550px;
-  left: 300px;
+  position: relative;
+  bottom: 300px;
+  
+  /* top: 450px;
+  left: 300px; */
+}
+footer{
+  padding-top: 50px;
+}
+button{
+  color: white;
+  background-color: orangered;
+  height: 38px;
+  width: 130px;
+  margin-right: 150px;
+  float: right;
+}
+#vanPic{
+  margin-left: 150px;
+  float: left;
+}
+label img {
+opacity: .5;
+}
+
+input[type=checkbox] {
+  background-blend-mode: 
+  opacity: .5;
 }
