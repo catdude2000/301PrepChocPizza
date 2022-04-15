@@ -1,7 +1,7 @@
 body{
   padding-top: 30px;
   margin: auto;
-  /* width: 1200px; */
+  width: 1180px;
   font-size: 12px;
   text-align: center;
   background-image: url("/images/hr-img.png"),
@@ -39,27 +39,28 @@ h1{
   margin-bottom: -10px;
 }
 #postedOn{
-  padding-left: 510px;
+  text-align: center;
+  padding-left: 140px;
   float: left;
   font-size: 15px;
   color: grey;
 }
 #print{
-  padding-left: 820px;
+  padding-left: 850px;
   font-size: 15px;
   padding-bottom: 25px;
   color: grey;
 }
 #mainText{
-margin-left: 120px;
-margin-right: 120px;
-font-size: 20px;
+  margin-left: 120px;
+  margin-right: 120px;
+  font-size: 20px;
 }
 p{
-padding-top: 20px;
+  padding-top: 20px;
 }
 #reciTwo{
-position: absolute;
-top: 550px;
-left: 300px;
+  position: absolute;
+  top: 550px;
+  left: 300px;
 }
